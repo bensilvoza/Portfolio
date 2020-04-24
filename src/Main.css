@@ -1,0 +1,31 @@
+
+
+.main-margin {
+	margin-top: 5rem;
+}
+
+.main-title {
+	font-size: 2.5rem;
+}
+
+
+.main-p {
+	font-size: 1.3rem;
+}
+
+.main-anchor {
+	display: flex;
+}
+
+.main-anchor-learn-more {
+    color: blue;
+	margin-right: .3rem;
+}
+
+.main-arrow-inside {
+	font-size: 1rem;
+    color:   #227BB1;
+    
+}
+
+

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+
+.navbar-main-styling {
+	display: block;
+	border-right: 10px solid gray;
+}
+
+.navbar-back {
+	font-size: 1.4rem;
+}
+
+.navbar-arrow {
+	font-size: 1em;
+	color: gray;
+}
+
+.navbar-font-a {
+	font-size: 2rem;
+	color: black;
+	display: block;
+	padding-top: .7rem;
+	padding-bottom: .7rem;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+
+

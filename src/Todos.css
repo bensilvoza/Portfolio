@@ -1,0 +1,37 @@
+
+.todos-border {
+	border: 2px solid gray;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 1rem;
+}
+
+.todos-p-a {
+	font-size: 2.5rem;
+}
+
+.todos-form {
+	display: flex;
+}
+
+.todos-ul {
+	list-style-type: none;
+    padding: 0;
+    font-size: 1.5rem;
+}
+
+.todos-input {
+	border: 1px solid gray;
+    width: 15rem;
+    height: 3rem;
+    border-radius: 2px;
+	font-size: 1.5rem;
+}
+
+.todos-plus {
+	font-size: 2rem;
+	color: gray;
+}
+
+
+

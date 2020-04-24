@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap');    
+
+
+
+.dashboard-header {
+	font-size: 2rem;
+	font-weight: 100;
+	color: lightgray;
+	display: block;
+	padding-top: 1rem;
+	
+	margin-bottom: 5rem;
+}
+
+.dashboard-header:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.dashboard-arrow {
+	font-size: 2.5rem;
+	color: lightgray;
+}
+
+.getcamp-title {
+	font-family: 'Rubik', sans-serif;
+	font-weight: 300;
+	font-size: 2rem;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+
+.getcamp-desc {
+	font-size: 1.1rem;
+}
+
+
+.camp-inside {
+	color: cadetblue;
+    font-size: 2.7rem;
+}
+
+.camp-link-inside {
+	font-size: 1.1rem;
+}
+
+
+.blog-inside {
+	color: cadetblue;
+    font-size: 2.7rem;
+}
+
+.blog-link-inside {
+	font-size: 1.1rem;
+}
+
+.mini-inside {
+	color: cadetblue;
+    font-size: 2.7rem;
+}
+
+.mini-link-inside {
+	font-size: 1.1rem;
+}
+
+.todos-inside {
+	color: cadetblue;
+    font-size: 2.7rem;
+}
+
+.todos-link-inside {
+	font-size: 1.1rem;
+}
+
+.todos-inside-color {
+	color: blue;
+	font-size: 1.1rem;
+}
+
+
+.camp-hover :hover {
+	border-left: 2px solid cadetblue;
+	padding-left: 5px;
+}
+
+.blog-hover :hover {
+	border-left: 2px solid cadetblue;
+	padding-left: 5px;
+}
+
+.mini-hover :hover {
+	border-left: 2px solid cadetblue;
+	padding-left: 5px;
+}
+
+.todos-hover :hover {
+	border-bottom: 5px solid cadetblue;
+	padding-bottom: 1px;
+}
+
+
+
+

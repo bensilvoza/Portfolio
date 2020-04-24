@@ -1,0 +1,34 @@
+
+.show-todos-header {
+	font-size: 2rem;
+	font-weight: 100;
+	color: lightgray;
+	display: block;
+	padding-top: 1rem;
+	
+	margin-bottom: 5rem;
+}
+
+.show-todos-header:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.show-todos-arrow {
+	font-size: 2.5rem;
+	color: lightgray;
+}
+
+
+.show-todos-border {
+	border: 3px solid lightgray;
+	border-radius: 5px;
+	padding-bottom: 2rem;
+}
+
+
+
+
+
+
+

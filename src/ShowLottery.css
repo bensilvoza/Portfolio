@@ -1,0 +1,43 @@
+
+.show-lotto-header {
+	font-size: 2rem;
+	font-weight: 100;
+	color: lightgray;
+	display: block;
+	padding-top: 1rem;
+	
+	margin-bottom: 5rem;
+}
+
+.show-lotto-header:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.show-lotto-arrow {
+	font-size: 2.5rem;
+	color: lightgray;
+}
+
+
+.show-lotto-border {
+	border: 3px solid lightgray;
+	border-radius: 5px;
+	padding-bottom: 2rem;
+}
+
+
+.show-lotto-left-arrow {
+	font-size: 2rem;
+	color: gray;
+	margin-right: 1rem;
+}
+
+.show-lotto-right-arrow {
+	font-size: 2rem;
+	color: gray;
+	margin-left: 1rem;
+}
+
+
+
