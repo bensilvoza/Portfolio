@@ -24,7 +24,7 @@ class Dashboard extends Component {
 				 <i class="fas fa-campground camp-inside"></i>
 				 <p className="getcamp-title">Getcamp</p>
 				 <p className="getcamp-desc">This is my flagship project, It aims to know integration of front end and back end to make a full fledged application with CRUD functionalities using Database, REST APIS and authentication.</p>
-				 <p className="getcamp-desc">To see in action, go to <span> <a className="camp-link-inside" href="#">Getcamp</a> </span></p>
+				 <p className="getcamp-desc">To see in action, go to <span> <a className="camp-link-inside" href="https://cryptic-dusk-02038.herokuapp.com">Getcamp</a> </span></p>
 		  </div>
 				 
 			
@@ -33,7 +33,7 @@ class Dashboard extends Component {
 				 	 
 				 <i className="fas fa-code blog-inside"></i>
 				 <p className="getcamp-title">Blog</p>
-				 <p className="getcamp-desc">This is more focus on RESTful routes by building a fully functional <span> <a className="blog-link-inside" href="#">Blog</a> </span> app with CRUD, I also used Google fonts and Font awesome instead of default and having a features that users can able to create, update and delete blog.</p>  
+				 <p className="getcamp-desc">This is more focus on RESTful routes by building a fully functional <span> <a className="blog-link-inside" href="https://fathomless-dusk-98566.herokuapp.com/blogs">Blog</a> </span> app with CRUD, I also used Google fonts and Font awesome instead of default and having a features that users can able to create, update and delete blog.</p>  
  			 </div>
 				
 				 
